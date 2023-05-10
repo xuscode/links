@@ -22,6 +22,7 @@
 ---
 - [达索广州云平台试用](https://r1132100503382-eu1-3dswym.3dexperience.3ds.com/)
 
+---
 ## WORK
 
 - [自建在线论坛](https://dsbim.vip.cpolar.cn/forum.php)
@@ -38,6 +39,10 @@
 - [CATIA B27-内部-批处理代码](https://gitee.com/xuscode/CAAV5B27)
 
 ---
+## OS
+- [linux 命令查询}(https://wangchujiang.com/linux-command/list.html#!kw=)
+
+
 ## NOTEBOOK
 
 - [印象笔记](https://www.yinxiang.com/)
