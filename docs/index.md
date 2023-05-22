@@ -37,13 +37,13 @@
 ## OS
 | 系统 |  |  |  |
 | ------ | ------ | ------ | ------ |
-[linux 命令查询](https://wangchujiang.com/linux-command/list.html#!kw=) | [note](https://xuscode.github.io/bimnote.github.io/)
+[linux 命令查询](https://wangchujiang.com/linux-command/list.html#!kw=) | [bash](https://www.jdoodle.com/test-bash-shell-script-online/) | [菜鸟教程 linux ](https://www.runoob.com/linux/linux-tutorial.html) | [w3c Linux](https://www.w3cschool.cn/linux/)
 
 ## NOTEBOOK
 
 | 笔记 |  |  |  |
 | ------ | ------ | ------ | ------ |
-[印象笔记](https://www.yinxiang.com/)
+[印象笔记](https://www.yinxiang.com/) | [XUS Knowledge Base](https://xuscode.github.io/bimnote.github.io/)
 <!-- []()
 []()
 []()
