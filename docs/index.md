@@ -53,12 +53,6 @@
 [菜鸟工具](https://c.runoob.com/)
 [代码可视化](https://pythontutor.com/)
 
-## OS
-| 系统 |  |  |  |
-| ------ | ------ | ------ | ------ |
-[linux 命令查询](https://wangchujiang.com/linux-command/list.html#!kw=) | [bash](https://www.jdoodle.com/test-bash-shell-script-online/) | [菜鸟教程 linux ](https://www.runoob.com/linux/linux-tutorial.html) | [w3c Linux](https://www.w3cschool.cn/linux/)
-
-## NOTEBOOK
 
 | 笔记 |  |  |  |
 | ------ | ------ | ------ | ------ |
@@ -79,3 +73,7 @@
 [Rhinoceros 最新版本获取链接](https://www2.mcneel.com/updates/78464c2c-9aeb-456e-8c27-865a524f5ca0/release/win64/en-us/stable/)
 [Autodesk viewer ](https://viewer.autodesk.com/)
 
+## OS
+| 系统 |  |  |  |
+| ------ | ------ | ------ | ------ |
+[linux 命令查询](https://wangchujiang.com/linux-command/list.html#!kw=) | [bash](https://www.jdoodle.com/test-bash-shell-script-online/) | [菜鸟教程 linux ](https://www.runoob.com/linux/linux-tutorial.html) | [w3c Linux](https://www.w3cschool.cn/linux/)
